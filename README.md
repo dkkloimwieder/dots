@@ -1,0 +1,4 @@
+* DOTS
+    - tmux
+    - nvim
+    - misc
